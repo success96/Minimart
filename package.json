@@ -1,0 +1,20 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "web API",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/success96/Minimart.git"
+  },
+  "author": "Fawas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/success96/Minimart/issues"
+  },
+  "homepage": "https://github.com/success96/Minimart#readme"
+}
